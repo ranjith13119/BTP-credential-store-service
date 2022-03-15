@@ -1,0 +1,8 @@
+{
+  "BTP_AP_CREDENTIALS_STORE_DB_DUMMY": {
+    "target": {
+      "object": "DUMMY",
+      "schema": "SYS"
+    }
+  }
+}
